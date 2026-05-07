@@ -54,3 +54,56 @@
 
 
 ---
+
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Anandhakumar123456&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anandhakumar123456&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandhakumar123456&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Anandhakumar123456&theme=radical&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Anandhakumar github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anandhakumar123456&theme=react-dark)](https://github.com/Anandhakumar123456)
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/Anandhakumar123456">
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ✨ Developer Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+<p align="center">
+🔥 Building scalable Flutter applications with modern architecture.
+</p>
