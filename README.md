@@ -13,61 +13,56 @@
 
 ---
 
-## 🌐 Connect With Me
+# 🛠️ Tech Stack
 
-<p align="left">
-<a href="https://www.linkedin.com/in/anandha-kumar-n-641aa6241">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
+## 📱 Mobile Development
 
-<a href="mailto:anandhakumar2423@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
 </p>
 
 ---
 
-# 💻 Tech Stack
+## 🌐 Backend & APIs
 
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,mongodb,mysql" />
+</p>
 
 ---
 
+## 💻 Programming Languages
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Anandhakumar123456&show_icons=true&theme=tokyonight"/>
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anandhakumar123456&theme=tokyonight"/>
+---
+
+## ⚙️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,netlify,vscode" />
 </p>
 
+---
+
+# 📊 GitHub Analytics
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandhakumar123456&layout=compact&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anandhakumar123456&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandhakumar123456&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anandhakumar123456&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -75,20 +70,30 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Anandhakumar123456&theme=radical&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Anandhakumar123456&theme=radical&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
 ---
 
 # 📈 Contribution Graph
 
-[![Anandhakumar github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anandhakumar123456&theme=react-dark)](https://github.com/Anandhakumar123456)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anandhakumar123456&theme=react-dark&hide_border=true"/>
+</p>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
+
+<a href="https://www.linkedin.com/in/anandha-kumar-n-641aa6241">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:anandhakumar2423@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <a href="https://github.com/Anandhakumar123456">
 <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
@@ -98,12 +103,15 @@
 
 ---
 
-# ✨ Developer Quote
+# 💡 Developer Mindset
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+> “Great mobile apps are not just built with code,  
+> they are built with user experience, scalability, and vision.”
 
 ---
 
 <p align="center">
-🔥 Building scalable Flutter applications with modern architecture.
+
+✨ Passionate about building scalable Flutter applications with modern architecture and clean UI.
+
 </p>
