@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anandhakumar</h1>
-<h3 align="center">Flutter Developer | Firebase Enthusiast | Mobile App Developer</h3>
+<h1 align="left">Hi 👋, I'm Anandhakumar N </h1>
+<h3 align="left">Flutter Developer | Firebase Enthusiast | Mobile App Developer | Full Stack Developer </h3>
 
 
 
@@ -22,11 +22,14 @@
 <a href="mailto:anandhakumar2423@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+<a href="https://github.com/Anandhakumar123456">
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 
-
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -53,40 +56,10 @@
 
 
 
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anandhakumar123456&theme=tokyonight"/>
-</p>
-
-
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/anandha-kumar-n-641aa6241">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:anandhakumar2423@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Anandhakumar123456">
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p
-
-
-
-# 💡 Developer Mindset
+## 💡 Developer Mindset
 
 > “Great mobile apps are not just built with code,  
 > they are built with user experience, scalability, and vision.”
-
 
 
 <p align="center">
